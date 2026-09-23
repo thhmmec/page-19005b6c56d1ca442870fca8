@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5e067edbed8ce1daf3d07b88",
+  "owner": "thhmmec",
+  "repo": "page-19005b6c56d1ca442870fca8",
+  "title": "两元店",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "19005b6c56d1ca442870fca8",
+      "a": "两元店",
+      "b": "2027官方最新地址导航",
+      "entity": "两元店",
+      "brand": "两元店",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d5c48b449892a1515c5fd1361f9be8b2e27ab2a37bc7c41d6d131645e926cd27",
+      "content": {
+        "primary_entity": "两元店",
+        "keyword1": "两元店",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，再导入订阅。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付价格分别为 ¥15、¥35、¥85，按年付可省两个月费用。基础版适合手机单机日常浏览，旗舰版覆盖多设备与流媒体需求，团队版面向小型团队或家庭多终端共享。订阅周期可按月或按年选择，年付在流量与设备额度不变的前提下降低月均支出。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度选择套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台设备、团队版 20 台设备，按常用设备数匹配档位。",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，按流量消耗选档。",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付仅需 ¥150、¥350、¥850，长期使用可节省两个月费用。",
+          "AI_FEATURE_TITLE_1": "按设备数选择",
+          "AI_FEATURE_TITLE_2": "按流量需求选择",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_GUIDE_INTRO": "确认设备数量与月流量，再购买套餐并导入订阅。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "两元店提供基础版、旗舰版与团队版三档订阅，月付价格从 ¥15 起，按年付可节约两个月费用。不同档位对应不同设备数量与月流量，适合个人手机、家庭多终端或小型团队使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "设备数 3 至 20 台可选",
+          "AI_HIGHLIGHT_3": "月流量 100GB 至 1000GB",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；按年付分别为 ¥150、¥350、¥850。设备数、流量与节点权限随档位提升。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与客户端支持情况。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅地址，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "两元店订阅套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、3台设备；旗舰版每月300GB流量、5台设备；团队版每月1000GB流量、20台设备。流量按自然月重置，适合不同规模用户。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台。如需更多设备，可选择团队版或购置多份订阅。",
+          "AI_FAQ_ANSWER_3": "年付更划算：基础版年付150元，旗舰版年付350元，团队版年付850元。相当于按月付费打了约八三折，适合长期使用。",
+          "AI_FAQ_ANSWER_4": "基础版解锁基础流媒体，旗舰版支持全节点原生流媒体解锁，团队版有VIP专属高带宽节点。旗舰版还带IPLC专线游戏加速优化。",
+          "AI_FAQ_ANSWER_5": "选择步骤：先比较套餐流量和设备数，再查看客户端适配要求，最后按客户端文档导入订阅。遇到问题可提交工单。",
+          "AI_FAQ_INTRO": "套餐流量、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数有何区别？",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时用于几台设备？",
+          "AI_FAQ_QUESTION_3": "按月付和按年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "套餐是否支持流媒体和游戏加速？",
+          "AI_FAQ_QUESTION_5": "如何选择适合自己的套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yesryts.cn",
+    "host": "yesryts.cn"
+  },
+  "file_hashes": {
+    "index.html": "1a5753b3edbef4633f2f9b785e60a1f76efbc234f3e835dd52c01490db633007",
+    "sitemap.xml": "0abc78f3d5d6ee14ca56c2f4bc12d138d96714d28d33c38d85a72f4aad9ec3f5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "36931b7681e098754d3bad68d4201e6007df5e9ee9deae1a793e0907d4b57f6c",
+    "robots.txt": "ef8ff9e01dc68c9e1ae7929498eb911ccf6b29fa3b4d386f5a3cc138f3ae24b1",
+    "4a3c1e57aefd0925191a1544c5989e2f.txt": "c508e34b6f97c9d72d85f197b443b4dfe32a3bd933cf799a8d8bf7ad22ef3f5c"
+  },
+  "revision": "7ca84fb328d07e1834ff2ce745468e947486dc0c500d2108114c3180ba9a5a4b"
+}
